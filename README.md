@@ -1,2 +1,2 @@
 # Macroeconomic-Analysis
-This project contains metrics for analyze and monitor macroeconomic performance.
+This project contains metrics to analyze and monitor macroeconomic performance.
